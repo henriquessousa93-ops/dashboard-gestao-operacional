@@ -1,8 +1,7 @@
 # dashboard-gestao-operacional
 Dashboard desenvolvido em Power BI para análise de indicadores de gestão operacional, com foco em acompanhamento de performance, monitoramento de KPIs e apoio à tomada de decisão, utilizando dados fictícios.
 
-![Dashboard](./ativos/dashboard.gif)
-
+![Dashboard](https://raw.githubusercontent.com/henriquessousa93-ops/painel-gestao-operacional/main/ativos/dashboard.gif)
 🎯 Objetivo
 
 Desenvolver meu primeiro dashboard focado em indicadores operacionais para acompanhamento de performance.
